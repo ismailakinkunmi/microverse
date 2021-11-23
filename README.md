@@ -1,7 +1,7 @@
 # Hello-Microverse
 
 ## "Hello Microverse" project
-
+![Screenshot (38)](https://user-images.githubusercontent.com/37457094/143044733-24baf870-7d45-4ca8-95f6-4619778139f0.png)
 the purpose of this project is for mastering best practise, familiar with all the tools used such as linters, github, html and css
 
 ### Built With
