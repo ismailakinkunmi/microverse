@@ -30,7 +30,7 @@ the purpose of this project is for mastering best practise, familiar with all th
 
 #### Live Demo
 
-Link:<http://127.0.0.1:5500/index.html>
+This site was built using [GitHub Pages](http://127.0.0.1:5500/index.html/).
 
 ### Author
 
